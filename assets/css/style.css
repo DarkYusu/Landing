@@ -89,15 +89,14 @@ p {
 /* Header */
 
 .header_di-buffala {
-  background-image: url("../img/bg-header.jpg");
+  background-image: url("../img/rick-roll.gif");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:contain;
   text-align: center;
-  height: 700px;
+  height: 1000px;
   padding-top: 150px;
-  background-position: right bottom;
+  background-position: bottom;
 }
-
 .header_di-buffala h1 {
   color: #fff;
   font-size: 5em;
@@ -387,3 +386,4 @@ p {
   color: #fff;
   font-size: 1em;
 }
+
